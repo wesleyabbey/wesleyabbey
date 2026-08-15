@@ -1,4 +1,13 @@
-# I'm Wes
+# wes status
 
-I grew up in San Diego and studied Computer Science at the UNC Chapel Hill. 
-I specialize in ecommmerce, APIs, and the cloud.
+```text
+$ wes status
+
+name      Wes Abbey
+from      San Diego
+studied   UNC Chapel Hill
+does      ecommerce · APIs · LLMs
+building  useful little things
+curious   everything
+mood      optimistic
+```
