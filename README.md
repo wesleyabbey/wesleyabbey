@@ -2,6 +2,7 @@
 $ wes status
 
 name      Wes Abbey
+location  Boston
 from      San Diego
 studied   UNC Chapel Hill
 does      ecommerce · APIs · LLMs
