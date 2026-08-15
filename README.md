@@ -1,5 +1,3 @@
-# wes status
-
 ```text
 $ wes status
 
