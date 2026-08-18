@@ -6,6 +6,6 @@ location  Boston
 from      San Diego
 studied   UNC Chapel Hill
 does      Commerce · APIs · LLMs
-curious   Everything
+curious   Always
 mood      Optimistic
 ```
