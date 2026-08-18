@@ -5,8 +5,7 @@ name      Wes Abbey
 location  Boston
 from      San Diego
 studied   UNC Chapel Hill
-does      ecommerce · APIs · LLMs
-building  useful little things
-curious   everything
-mood      optimistic
+does      Commerce Â· APIs Â· LLMs
+curious   Everything
+mood      Optimistic
 ```
